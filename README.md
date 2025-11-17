@@ -13,6 +13,6 @@ To have all my blogs accessible from GitHub
 
 To build a stronger developer footprint for GSoC & open-source
 
-Do not edit files manually
+Do not edit files manually .
 
 Hashnode updates this repo automatically whenever I publish or update a blog.
